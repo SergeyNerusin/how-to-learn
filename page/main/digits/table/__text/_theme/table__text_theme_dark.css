@@ -1,0 +1,13 @@
+.table__text_theme_dark {
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+  color: #fff;
+  position: relative;
+  z-index: 99;
+}
+
+.table__text_theme_dark:nth-child(even) {
+  margin-top: 20px;
+  margin-bottom: 0;
+}
