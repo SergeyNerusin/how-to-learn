@@ -1,0 +1,12 @@
+.khan__book-pic {
+  display: block;
+  width: 620px;
+  height: 608px;
+  background-image: url('../../../../images/khan-book.jpg');
+  background-repeat: no-repeat;
+  /* object-fit: cover;
+  object-position: 50% 50%; */
+  /* В таком сочетании изображение как по брифу */
+  background-position: top 0 left 0;
+  background-size: cover;
+}

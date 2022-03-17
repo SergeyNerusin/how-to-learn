@@ -1,0 +1,13 @@
+.header__link {
+  font-family: 'Inter', 'Arial', sans-serif;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+  color: #2f80ed;
+  opacity: 1;
+}
+
+.header__link:hover {
+  transition: opacity .8s linear;
+  opacity: .5;
+}
