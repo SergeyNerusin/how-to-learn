@@ -1,0 +1,14 @@
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.rotation {
+  /* Анимация: название кейфрейма, время, линейная скорость вращения,воспроизводить бесконечно. */
+  animation: rotation 20s linear infinite;
+}
