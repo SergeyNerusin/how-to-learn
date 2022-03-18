@@ -1,6 +1,8 @@
 .feynman__images {
   width: 867px;
   height: 637px;
+  margin: 0;
+  padding: 0;
   position: absolute;
   left: 0;
   bottom: 0;

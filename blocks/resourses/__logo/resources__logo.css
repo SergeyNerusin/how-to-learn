@@ -7,8 +7,10 @@
   padding: 0;
   object-position: 50% 50%;
   object-fit: fill;
+  opacity: 1;
 }
 
 .resources__logo:hover {
-  border-bottom: 2px solid #cfcccc;
+  transition: opacity .8s linear;
+  opacity: .5;
 }
